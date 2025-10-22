@@ -1,6 +1,6 @@
 import os
 
-USERNAME = "admin123" 
+USERNAME = "admin12" 
 PASSWORD = "1234"
 KEY = "azeafziqjz24onjeoqfn393493842034ozeofzjfpoqzfjqzpof087807"
 
@@ -36,4 +36,5 @@ if __name__ == "__main__":
     expr = input("Enter math expression: ") 
     print("Result:", calculate(expr)) 
     delete_file("test.txt")
+
 
